@@ -4,11 +4,11 @@ Goal was initially to follow [the guide by Sophie DeBenedetto on timber.io](http
 
 These notes are taken from the Phoenix guide pages found here:
 
-- [https://hexdocs.pm/phoenix/installation.html](Install)
-- [https://hexdocs.pm/phoenix/up_and_running.html](Getting Started)
-- [https://hexdocs.pm/phoenix/directory_structure.html](Directory Structure)
-- [https://hexdocs.pm/phoenix/channels.html](Channels)
-- [https://hexdocs.pm/phoenix/Phoenix.Endpoint.html](Phoenix.Endpoint)
+- [Install](https://hexdocs.pm/phoenix/installation.html)
+- [Getting Started](https://hexdocs.pm/phoenix/up_and_running.html)
+- [Directory Structure](https://hexdocs.pm/phoenix/directory_structure.html)
+- [Channels](https://hexdocs.pm/phoenix/channels.html)
+- [Phoenix.Endpoint](https://hexdocs.pm/phoenix/Phoenix.Endpoint.html)
 
 ## STEPS TO START
 
