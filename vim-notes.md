@@ -1,35 +1,35 @@
 # Vim Notes
 
-h - left
-j - down
-k - up
+h - left  
+j - down  
+k - up  
 l - right
 
-:q! - quit and discard changes
+:q! - quit and discard changes  
 :wq - quit and save
 
-i - enter INSERT mode (add text in the location of the cursor)
-a - enter INSERT mode (add text in the location after the cursor highlight)
+i - enter INSERT mode (add text in the location of the cursor)  
+a - enter INSERT mode (add text in the location after the cursor highlight)  
 ESC - exit INSERT mode/return to NORMAL mode
 
 VERB NUMBER MOTION
 
-x - remove the character hovered over
-u - UNDO last command
-U - UNDO all changes in a line
-p - PUT previously deleted text
-r - REPLACE the highlighted character with following character
-c - CHANGE the word (delete according to motion char and enter insert mode)
-  ce - delete to end of current word and insert
-  cc - delete to end of line and insert
-CTRL-R - redo undone changes
-d - delete
-  dw - delete single word to start of next word
-  de - delete single word to end of current word
-  d$ - delete to end of line
-  dd - delete entire line
-  d2w - delete two words
-  d3d - delete three lines
+x - remove the character hovered over  
+u - UNDO last command  
+U - UNDO all changes in a line  
+p - PUT previously deleted text  
+r - REPLACE the highlighted character with following character  
+c - CHANGE the word (delete according to motion char and enter insert mode)  
+  ce - delete to end of current word and insert  
+  cc - delete to end of line and insert  
+CTRL-R - redo undone changes  
+d - delete  
+  dw - delete single word to start of next word  
+  de - delete single word to end of current word  
+  d$ - delete to end of line  
+  dd - delete entire line  
+  d2w - delete two words  
+  d3d - delete three lines  
 0 - go to start of current line
 
 CTRL-G - get file status and location
