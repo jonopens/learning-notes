@@ -20,25 +20,25 @@ U - UNDO all changes in a line
 p - PUT previously deleted text  
 r - REPLACE the highlighted character with following character  
 c - CHANGE the word (delete according to motion char and enter insert mode)  
-  ce - delete to end of current word and insert  
-  cc - delete to end of line and insert  
+- ce - delete to end of current word and insert  
+- cc - delete to end of line and insert  
 CTRL-R - redo undone changes  
 d - delete  
-  dw - delete single word to start of next word  
-  de - delete single word to end of current word  
-  d$ - delete to end of line  
-  dd - delete entire line  
-  d2w - delete two words  
-  d3d - delete three lines  
+- dw - delete single word to start of next word  
+- de - delete single word to end of current word  
+- d$ - delete to end of line  
+- dd - delete entire line  
+- d2w - delete two words  
+- d3d - delete three lines  
 0 - go to start of current line
 
 CTRL-G - get file status and location
 G - move to bottom of file
-  499G - go to line 499 of current file
+- 499G - go to line 499 of current file
 gg - move to start of file
 / - search for a word
-  n - go to next instance of search word
-  N - go to previous instance of search word
+- n - go to next instance of search word
+- N - go to previous instance of search word
 CTRL-O - go back
 CTRL-I - go forward
 % - go to matching pair of (), [] or {}
